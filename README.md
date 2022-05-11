@@ -3,3 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## estos cmbios son nuevos desde el repo local
+## estos cmbios son nuevos desde github
